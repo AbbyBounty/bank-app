@@ -1,0 +1,23 @@
+.services {
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 100px;
+
+  .grid {
+    border-bottom: 1px solid rgb(114, 113, 113);
+    justify-content: start;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    p:first-child {
+      font-size: 25px;
+    }
+  }
+}
+
+.title {
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 33px !important;
+}
