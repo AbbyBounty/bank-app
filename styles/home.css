@@ -15,7 +15,7 @@
   -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
   grid-column-gap: 270px;
-  grid-row-gap: 170px;
+  grid-row-gap: 150px;
   justify-items: space-between;
   -webkit-box-align: space-between;
       -ms-flex-align: space-between;

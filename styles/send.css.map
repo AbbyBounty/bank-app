@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,UAAU,EAAE,OAAkB;EAC9B,kBAAkB,EAAE,gBAAgB;EACpC,eAAe,EAAE,gBAAgB;EACjC,UAAU,EAAE,eAAe;EAC3B,KAAK,EAAE,IAAI;CACZ;;AAED,AAAA,MAAM,CAAC;EACL,KAAK,EAAE,GAAG;CACX",
+    "sources": [
+        "send.scss"
+    ],
+    "names": [],
+    "file": "send.css"
+}
