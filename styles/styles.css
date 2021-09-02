@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+
+.card{
+    color: white;
+    background-color: rgb(13, 13, 88)!important;
+    height: 700px;
+
+}
